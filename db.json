@@ -1,4 +1,5 @@
-[
+{
+    "posts" : [
     {
       "id": 1,
       "headline": "Mars: NASA predict how the planet’s landscape formed",
@@ -35,4 +36,5 @@
       "detail" : "And the Brit, who is going for his sixth Drivers’ World Championship on Sunday at the American Grand Prix, confirmed during race week that he is keen to carry on and prove his abilities over the next few years at least.",
       "images" : ["https://cdn.images.express.co.uk/img/dynamic/73/590x/secondary/Hamilton-2141595.jpg?r=1572617588813","https://cdn.images.express.co.uk/img/dynamic/73/590x/Hamilton-1198525.jpg?r=1572617588734"]
     }
-]
+    ]
+}
